@@ -14,4 +14,4 @@ Makefile is in the repository, execute `mingw32-make.exe` to get the executable.
 Enjoy!
 
 Author:
->Kildoes
+>Oded Zrubavel
